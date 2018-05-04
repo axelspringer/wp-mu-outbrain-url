@@ -1,5 +1,5 @@
 {
-    "name": "muplugin/book-outbrain-url",
+    "name": "axelspringer/wp-mu-outbrain-url",
     "type": "wordpress-muplugin",
     "description": "Provides outbrain urls for books",
     "keywords": [
@@ -13,11 +13,15 @@
         {
             "name": "Sebastian Döll",
             "homepage": "http://www.axelspringer.de"
+        },
+        {
+            "name": "Mathias Witt",
+            "homepage": "http://www.axelspringer.de"
         }
     ],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/book-outbrain-url",
-    "license": "proprietary",
+    "homepage": "https://github.com/axelspringer/wp-mu-outbrain-url",
+    "license": "Apache-2.0",
     "extra": {
-        "installer-name": "book-outbrain-url"
+        "installer-name": "wp-mu-outbrain-url"
     }
 }

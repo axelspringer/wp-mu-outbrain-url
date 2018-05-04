@@ -11,5 +11,3 @@ if (defined('OUTBRAIN_URL') &&
     return sprintf("%s://". OUTBRAIN_URL ."%s", $scheme, wp_make_link_relative(get_permalink($post)));
   }
 }
-
-?>
